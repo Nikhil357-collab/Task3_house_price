@@ -20,6 +20,31 @@ The project focuses on understanding the complete regression workflow:
 - Residual analysis
 - MUlticolinearity
 
+Housing Dataset
+      ↓
+Train/Test Split
+      ↓
+Multiple Linear Regression
+      ↓
+MAE / MSE / RMSE / R²
+      ↓
+VIF
+      ↓
+Remove high-VIF feature
+      ↓
+5-Fold Cross-Validation
+      ↓
+Select Model 2
+      ↓
+Residual vs Predicted Plot
+      ↓
+Breusch-Pagan Test
+      ↓
+Final Model Validation
+
+
+
+
 ---
 
 ## 🎯 Objective
